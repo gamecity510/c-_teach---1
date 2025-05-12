@@ -32,6 +32,8 @@ cout << "Hello World!";
 This line prints the string "Hello World!" to the output (usually the screen).
 cout is used for output, and << is the insertion operator that sends the text to the output stream.
 
+
 cpp
 }
 This marks the end of the main function’s body.
+![Screenshot 2025-05-12 172028](https://github.com/user-attachments/assets/4499d602-2e3d-4a75-8ef4-f8ee6581a068)
